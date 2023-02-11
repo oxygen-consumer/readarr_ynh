@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/Radarr/Radarr/releases/download/v4.3.2.6857/Radarr.master.4.3.2.6857.linux-core-arm64.tar.gz
-SOURCE_SUM=3aa4e2ae25cec14ebc911000d54f8764bcb4eb602dca495de5aa30e7a11cd37b
+SOURCE_URL=https://github.com/Readarr/Readarr/releases/download/v0.1.2.1558/Readarr.develop.0.1.2.1558.linux-core-arm64.tar.gz
+SOURCE_SUM=e930e74501d9addb59d8a84c8162427a446bdd29509a73174d8629dfd88a67b5
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
