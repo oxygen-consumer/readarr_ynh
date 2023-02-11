@@ -1,6 +1,6 @@
 {
-    "name": "Radarr",
-    "id": "radarr",
+    "name": "Readarr",
+    "id": "readarr",
     "packaging_format": 1,
     "description": {
         "en": "Book Manager and Automation (Sonarr for Ebooks)"
